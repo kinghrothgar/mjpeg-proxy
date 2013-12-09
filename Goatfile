@@ -1,0 +1,10 @@
+{
+    "path":"github.com/kinghrothgar/mjpeg-proxy",
+    "deps":[
+        {
+            "loc":"git@github.com:grooveshark/golib.git",
+            "path":"github.com/grooveshark/golib",
+            "type":"git"
+        }
+    ]
+}
